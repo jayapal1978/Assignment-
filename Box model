@@ -24,7 +24,7 @@ box-sizing: border-box;
 background-color: #90EE90;/green/
 }
 h1 {
-margin-bottom: 30px;
+margin: 30px;
 margin-top: 50px;
 align-centre;
 }
